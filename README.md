@@ -8,11 +8,8 @@ Secure Design Patterns in Java
 ->Iterator Pattern
 
 2:Creational Design Patterns
-
 ->Factory
-
 ->ProtoType
-
 ->SingleTon
 
 3:Structural Design Patterns
